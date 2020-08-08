@@ -1,0 +1,19 @@
+.header{
+  font-size: large;
+}
+.content {
+  .logo {
+    margin: 0.5rem;
+    text-align: center;
+    font-size: 24px;
+    color: #0471d6;
+    img{
+      background-color: #0471d6;
+      padding: .5rem;
+    }
+  }
+}
+.mat-toolbar.mat-primary {
+  margin-top: -40px;
+    padding-top: 10px;
+}
